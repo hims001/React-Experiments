@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is my play ground where I am learning React library and it's components through practicals. It includes examples of using React, ReactDOM and React-Router as of now.
+
 ## Available Scripts
 
 In the project directory, you can run:
